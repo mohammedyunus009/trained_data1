@@ -1,4 +1,4 @@
-scalar complete
+calar complete
 gettting_matrix_format_data
 part-1 training completed
 gettting_matrix_format_data
